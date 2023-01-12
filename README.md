@@ -27,5 +27,5 @@ pyinstaller --onefile .\count_words.py
 ```
 
 ## Closing
-If you want to setup pyenv and pipenv in your machine, please chech out: ![Robot Framework Setup](https://bit.ly/RF-setup)
+If you want to setup pyenv and pipenv in your machine, please chech out: [Robot Framework Setup](https://bit.ly/RF-setup)
 This is probably enough to trobleshoot and get your pyenv and pipen setup in your machine.
