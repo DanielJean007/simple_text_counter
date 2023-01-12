@@ -1,0 +1,1230 @@
+('C:\\Users\\Daniel Jean\\Desktop\\voxy\\build\\count_words\\PYZ-00.pyz',
+ [('multiprocessing.popen_spawn_posix',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\signal.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\gzip.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\gettext.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\_compression.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\ssl.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\calendar.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\random.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\bisect.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\quopri.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\getopt.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\numbers.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\base64.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\hmac.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\struct.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\selectors.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\configparser.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\csv.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\bz2.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\pprint.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\queue.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\secrets.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\ast.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\opcode.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\typing.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\string.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\glob.py',
+   'PYMODULE'),
+  ('flask',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\__init__.py',
+   'PYMODULE'),
+  ('flask.templating',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\templating.py',
+   'PYMODULE'),
+  ('flask.debughelpers',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\debughelpers.py',
+   'PYMODULE'),
+  ('flask.scaffold',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\scaffold.py',
+   'PYMODULE'),
+  ('flask.wrappers',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\wrappers.py',
+   'PYMODULE'),
+  ('werkzeug.routing',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\routing\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.test',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\test.py',
+   'PYMODULE'),
+  ('werkzeug.wsgi',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\wsgi.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.utils',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\sansio\\utils.py',
+   'PYMODULE'),
+  ('werkzeug.sansio',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\sansio\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.http',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\sansio\\http.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers.response',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\wrappers\\response.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.response',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\sansio\\response.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers.request',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\wrappers\\request.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.request',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\sansio\\request.py',
+   'PYMODULE'),
+  ('werkzeug.user_agent',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\user_agent.py',
+   'PYMODULE'),
+  ('werkzeug.formparser',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\formparser.py',
+   'PYMODULE'),
+  ('werkzeug.utils',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\utils.py',
+   'PYMODULE'),
+  ('werkzeug.security',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\security.py',
+   'PYMODULE'),
+  ('werkzeug.urls',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\urls.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.multipart',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\sansio\\multipart.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('werkzeug.http',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\http.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\datastructures.py',
+   'PYMODULE'),
+  ('werkzeug._internal',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\_internal.py',
+   'PYMODULE'),
+  ('colorama',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\colorama\\__init__.py',
+   'PYMODULE'),
+  ('colorama.ansitowin32',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\colorama\\ansitowin32.py',
+   'PYMODULE'),
+  ('colorama.winterm',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\colorama\\winterm.py',
+   'PYMODULE'),
+  ('colorama.ansi',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\colorama\\ansi.py',
+   'PYMODULE'),
+  ('colorama.initialise',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\colorama\\initialise.py',
+   'PYMODULE'),
+  ('colorama.win32',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\colorama\\win32.py',
+   'PYMODULE'),
+  ('werkzeug.serving',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\serving.py',
+   'PYMODULE'),
+  ('werkzeug._reloader',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\_reloader.py',
+   'PYMODULE'),
+  ('werkzeug.debug',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\debug\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.debug.console',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\debug\\console.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\codeop.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\__future__.py',
+   'PYMODULE'),
+  ('werkzeug.debug.repr',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\debug\\repr.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\tty.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\platform.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\code.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\daniel jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\uuid.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('werkzeug.middleware.shared_data',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\middleware\\shared_data.py',
+   'PYMODULE'),
+  ('werkzeug.middleware',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\middleware\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.debug.tbtools',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\debug\\tbtools.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('werkzeug.routing.rules',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\routing\\rules.py',
+   'PYMODULE'),
+  ('werkzeug.routing.matcher',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\routing\\matcher.py',
+   'PYMODULE'),
+  ('werkzeug.routing.map',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\routing\\map.py',
+   'PYMODULE'),
+  ('werkzeug.routing.exceptions',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\routing\\exceptions.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\difflib.py',
+   'PYMODULE'),
+  ('werkzeug.routing.converters',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\routing\\converters.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\wrappers\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.exceptions',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\exceptions.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('jinja2',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\__init__.py',
+   'PYMODULE'),
+  ('jinja2.ext',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\ext.py',
+   'PYMODULE'),
+  ('jinja2.parser',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\parser.py',
+   'PYMODULE'),
+  ('jinja2.lexer',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\lexer.py',
+   'PYMODULE'),
+  ('jinja2._identifier',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\_identifier.py',
+   'PYMODULE'),
+  ('jinja2.defaults',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\defaults.py',
+   'PYMODULE'),
+  ('jinja2.tests',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\tests.py',
+   'PYMODULE'),
+  ('jinja2.filters',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\filters.py',
+   'PYMODULE'),
+  ('jinja2.sandbox',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\sandbox.py',
+   'PYMODULE'),
+  ('jinja2.async_utils',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\async_utils.py',
+   'PYMODULE'),
+  ('jinja2.utils',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\utils.py',
+   'PYMODULE'),
+  ('jinja2.constants',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\constants.py',
+   'PYMODULE'),
+  ('jinja2.runtime',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\runtime.py',
+   'PYMODULE'),
+  ('jinja2.loaders',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\loaders.py',
+   'PYMODULE'),
+  ('jinja2.exceptions',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\exceptions.py',
+   'PYMODULE'),
+  ('jinja2.environment',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\environment.py',
+   'PYMODULE'),
+  ('asyncio',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('jinja2.debug',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\debug.py',
+   'PYMODULE'),
+  ('jinja2.compiler',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\compiler.py',
+   'PYMODULE'),
+  ('jinja2.visitor',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\visitor.py',
+   'PYMODULE'),
+  ('jinja2.optimizer',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\optimizer.py',
+   'PYMODULE'),
+  ('jinja2.idtracking',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\idtracking.py',
+   'PYMODULE'),
+  ('jinja2.bccache',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\bccache.py',
+   'PYMODULE'),
+  ('jinja2.nodes',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\jinja2\\nodes.py',
+   'PYMODULE'),
+  ('flask.signals',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\signals.py',
+   'PYMODULE'),
+  ('flask.helpers',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\helpers.py',
+   'PYMODULE'),
+  ('flask.globals',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\globals.py',
+   'PYMODULE'),
+  ('flask.sessions',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\sessions.py',
+   'PYMODULE'),
+  ('flask.json.tag',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\json\\tag.py',
+   'PYMODULE'),
+  ('itsdangerous',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\itsdangerous\\__init__.py',
+   'PYMODULE'),
+  ('itsdangerous.url_safe',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\itsdangerous\\url_safe.py',
+   'PYMODULE'),
+  ('itsdangerous._json',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\itsdangerous\\_json.py',
+   'PYMODULE'),
+  ('itsdangerous.timed',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\itsdangerous\\timed.py',
+   'PYMODULE'),
+  ('itsdangerous.signer',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\itsdangerous\\signer.py',
+   'PYMODULE'),
+  ('itsdangerous.serializer',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\itsdangerous\\serializer.py',
+   'PYMODULE'),
+  ('itsdangerous.exc',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\itsdangerous\\exc.py',
+   'PYMODULE'),
+  ('itsdangerous.encoding',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\itsdangerous\\encoding.py',
+   'PYMODULE'),
+  ('werkzeug.local',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\werkzeug\\local.py',
+   'PYMODULE'),
+  ('flask.ctx',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\ctx.py',
+   'PYMODULE'),
+  ('flask.config',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\config.py',
+   'PYMODULE'),
+  ('flask.blueprints',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\blueprints.py',
+   'PYMODULE'),
+  ('flask.app',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\app.py',
+   'PYMODULE'),
+  ('flask.testing',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\testing.py',
+   'PYMODULE'),
+  ('click.testing',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\click\\testing.py',
+   'PYMODULE'),
+  ('click.core',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\click\\core.py',
+   'PYMODULE'),
+  ('click.decorators',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\click\\decorators.py',
+   'PYMODULE'),
+  ('importlib_metadata',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib_metadata._itertools',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib_metadata._functools',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib_metadata._compat',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('importlib_metadata._collections',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib_metadata._py39compat',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\importlib_metadata\\_py39compat.py',
+   'PYMODULE'),
+  ('importlib_metadata._meta',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib_metadata._adapters',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib_metadata._text',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('zipp',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\zipp\\__init__.py',
+   'PYMODULE'),
+  ('zipp.py310compat',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\zipp\\py310compat.py',
+   'PYMODULE'),
+  ('click.shell_completion',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\click\\shell_completion.py',
+   'PYMODULE'),
+  ('click.parser',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\click\\parser.py',
+   'PYMODULE'),
+  ('click.globals',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\click\\globals.py',
+   'PYMODULE'),
+  ('click.exceptions',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\click\\exceptions.py',
+   'PYMODULE'),
+  ('click.types',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\click\\types.py',
+   'PYMODULE'),
+  ('click._compat',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\click\\_compat.py',
+   'PYMODULE'),
+  ('click._winconsole',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\click\\_winconsole.py',
+   'PYMODULE'),
+  ('click.utils',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\click\\utils.py',
+   'PYMODULE'),
+  ('click.termui',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\click\\termui.py',
+   'PYMODULE'),
+  ('click._termui_impl',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\click\\_termui_impl.py',
+   'PYMODULE'),
+  ('click.formatting',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\click\\formatting.py',
+   'PYMODULE'),
+  ('click._textwrap',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\click\\_textwrap.py',
+   'PYMODULE'),
+  ('flask.logging',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\logging.py',
+   'PYMODULE'),
+  ('flask.json.provider',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\json\\provider.py',
+   'PYMODULE'),
+  ('click',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\click\\__init__.py',
+   'PYMODULE'),
+  ('flask.cli',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\cli.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'c:\\users\\daniel '
+   'jean\\.pyenv\\pyenv-win\\versions\\3.8.6\\lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('flask.typing',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\typing.py',
+   'PYMODULE'),
+  ('flask.json',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\flask\\json\\__init__.py',
+   'PYMODULE'),
+  ('markupsafe',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\markupsafe\\__init__.py',
+   'PYMODULE'),
+  ('markupsafe._native',
+   'C:\\Users\\Daniel '
+   'Jean\\.virtualenvs\\voxy-cDZJewHZ\\lib\\site-packages\\markupsafe\\_native.py',
+   'PYMODULE')])
